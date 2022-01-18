@@ -12,3 +12,8 @@ few Serialization techniques for Spatial Pooler and attempts to provide a best f
 
 Clone the repoitory : https://github.com/aniklog/HTM-Spatial-Poler-Serialization-in-.NET--.git
 
+Browse to HTM\UnitTestsProject > SpatialPoolerSerializeTests.cs 
+
+Modify the test objects according to requirement and run the Unit Test.
+
+JSON serialization is implemented to store Spatial Pooler field and properties.
